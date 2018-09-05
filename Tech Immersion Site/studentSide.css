@@ -57,16 +57,16 @@
 }
 
 .python{
-    border-left: 10px #a20baa solid;
+    border-left: 10px #0068FF solid;
     height: 400px;
 }
 
 .javascript{
-    border-left: 10px #00BCFF solid;
+    border-left: 10px #0068ff solid;
 }
 
 .unity{
-    border-left: 10px #000000 solid;
+    border-left: 10px #0068FF solid;
     height: 400px;
 }
 
@@ -105,21 +105,21 @@
 }
 
 .learn ul li{
-    color: #00BCFF;
-    font-weight: 600;
+    color: #0068FF;
+    /* font-weight: 600; */
 }
 
 .pyLearn ul li{
-    color: #A20BAA;
-    font-weight: 800;
+    color: #0068FF;
+    /* font-weight: 800; */
 }
 
 .uLearn ul li{
-    color: #000000;
+    color: #0068FF;
 }
 
 .collapsibletitles{
-    color: #00BCFF;
+    color: #0068FF;
 }
 
 .photoDiv{
@@ -164,7 +164,7 @@
     color: #FFFFFF;
     border: none;
     border-radius: 80px;
-    background-color: #A20BAA !important;
+    background-color: #0068FF !important;
 }
 .javascriptBtn{
     position: absolute;
@@ -178,7 +178,7 @@
     color: #FFFFFF;
     border: none;
     border-radius: 80px;
-    background-image: linear-gradient(to right, #00BCFF, #0068FF)
+    background-image: linear-gradient(to righT, #0068FF, #00BCFF)
 }
 
 .unityBtn{
@@ -193,7 +193,7 @@
     color: #FFFFFF;
     border: none;
     border-radius: 80px;
-    background-color: #000000 !important;
+    background-color: #0068FF !important;
 }
 
 .photoDiv a{
