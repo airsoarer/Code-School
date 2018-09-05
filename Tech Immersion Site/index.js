@@ -51,7 +51,7 @@
 
         if (thisUser.email == user.email) {
           // alert('it worked');
-          window.location.replace('home.html');
+          window.location.replace('instructor.html');
         } else {
           alert('nope');
         }
