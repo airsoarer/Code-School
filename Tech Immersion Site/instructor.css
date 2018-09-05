@@ -6,6 +6,16 @@ h2{
     margin-top: 0px !important;
 }
 
+#s{
+    position: relative;
+}
+
+.sLink{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
 .header{
     background-image: linear-gradient(to right, #6D0D8D, #A20BAA);
     color: white;
