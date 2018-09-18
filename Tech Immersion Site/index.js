@@ -14,7 +14,7 @@
 
 
   function init() {
-    firebase.initializeApp(config);
+//     firebase.initializeApp(config);
 
     $('.collapsible').collapsible();
 //     $('.fixed-action-btn').floatingActionButton();
