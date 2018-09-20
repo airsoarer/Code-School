@@ -1,0 +1,16 @@
+#logo{
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.top{
+    background-image: linear-gradient(to right, #6D0D8D, #A20BAA);
+    color: white;
+}
+
+.card-panel{
+    color: black;
+}

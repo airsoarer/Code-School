@@ -1,0 +1,21 @@
+body {
+  background-color: #eee;
+}
+
+.containers{
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+.course {
+  padding: 200%;
+  text-align: center;
+}
+
+.card-panel {
+  border-radius: 35px;
+}
+
+a .btn {
+  border-radius: 50%;
+}
