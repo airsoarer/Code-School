@@ -128,7 +128,10 @@
 }
 
 .photoDiv img{
-    height: 100% !important;
+    /* zoom: 150%; */
+    /* height: auto; */
+    /* width: auto; */
+    /* height: 300px; */
 }
 
 .infoDiv{
