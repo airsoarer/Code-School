@@ -1,3 +1,15 @@
+button{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-size: 15px;
+}
+
+.font{
+    font-family: 'Futura T Demi', serif;
+}
+
 #hovertransition {
     color: black;
     background-color: orange;
